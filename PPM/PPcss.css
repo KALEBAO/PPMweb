@@ -1,0 +1,16 @@
+
+#upblock{
+	position: static;
+	height: 100px;
+	width: 100px;
+	border: 2px #660033;
+	top:90px;
+}
+
+#downblock{
+	position: static;
+	height: 100px;
+	width: 100px;
+	border: 2px #660033;
+	top:10px;
+}
