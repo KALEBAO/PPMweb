@@ -3,7 +3,7 @@ Português:
 Aqui está, um site para minha mamãe!
 Basicamente, este será um pequeno trabalho para ajudar minha mamãe com seus trabalhos de pintura. 
 O site funcionará tanto como um portifólio quanto como um ponto de encomendas. 
-Será simples, mas elegante. Apenas com o foco voltado para as belas pinturas de minha mamãe e divulgação de seu trabalho.  
+Será simples, mas elegante. Apenas com o foco voltado para as suas belas pinturas e divulgação de seu trabalho.  
 
 English:
 Here, a website to my mom!
