@@ -1,16 +1,18 @@
 
 #upblock{
-	position: static;
-	height: 100px;
-	width: 100px;
-	border: 2px #660033;
-	top:90px;
+ border: 3px solid white;
+ position: absolute;
+ width: 1210px;
+ height: 200px;
+ top: 20px;
+ left: 30px;
 }
 
 #downblock{
-	position: static;
-	height: 100px;
-	width: 100px;
-	border: 2px #660033;
-	top:10px;
+
+}
+
+#background{
+	position: absolute;
+	z-index: -3;
 }
