@@ -1,18 +1,65 @@
 
-#upblock{
- border: 3px solid white;
- position: absolute;
- width: 1210px;
- height: 200px;
- top: 20px;
- left: 30px;
+
+
+#perfilbox{
+	position: absolute;
+	background-color: white;
+	border-radius: 40px;
+	width: 1200px;
+	height: 300px;
+	top: 200px;
+	margin-left: 20px;
+	
 }
 
-#downblock{
-
-}
 
 #background{
-	position: absolute;
+	position: relative;
 	z-index: -3;
+} 
+
+#logo{
+	position: absolute;
+	background-color: white;
+	border: 3px solid purple; 
+	border-radius: 40px;
+	width:900px;
+	height:100px;
+	top:50px;
+	
+}
+
+#logotext{
+	font-family: 'Amita';
+	font-size: 30px;
+	position: static;
+	margin: 20px;
+}
+
+#fotobox{
+	position: relative;
+	width: 200px; 
+	height: 200px;
+	top: 40px;
+	left: 100px;
+
+}
+
+#perfil{
+	border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    box-shadow: 0 4px 20px 0
+}
+
+#descricaobox{
+	position: absolute;
+	border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    top: 40px;
+    left: 300px;
+    box-shadow: 0 4px 20px 0
 }
