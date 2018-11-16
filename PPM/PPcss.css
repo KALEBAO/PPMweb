@@ -5,7 +5,7 @@
 	position: absolute;
 	background-color: white;
 	border-radius: 40px;
-	width: 1200px;
+	width: 1205px;
 	height: 300px;
 	top: 200px;
 	margin-left: 20px;
@@ -18,7 +18,12 @@
 	z-index: -3;
 } 
 
-#logo{
+.backgroundfoto{
+	-webkit-filter: blur(1px);
+	filter: blur(1px);
+}
+
+#logobox{
 	position: absolute;
 	background-color: white;
 	border: 3px solid purple; 
@@ -26,6 +31,7 @@
 	width:900px;
 	height:100px;
 	top:50px;
+	right: 220px;
 	
 }
 
@@ -58,8 +64,21 @@
 	border: 1px solid #ddd;
     border-radius: 4px;
     padding: 5px;
-    width: 150px;
+    width: 550px;
     top: 40px;
     left: 300px;
     box-shadow: 0 4px 20px 0
+}
+
+#descricao{
+	font-family: 'Amita';
+	font-size: 17px;
+}
+
+#icons{
+	position: relative;
+	width: 30px;
+	height: 30px;
+	left: 100px;
+	top: 20px;	
 }
